@@ -227,10 +227,11 @@ function App() {
               style={{
                 textAlign: "center",
                 color: "var(--primary-text)",
+                     fontSize:32,
               }}
             >
-              <StyledLink target={"_blank"} href={CONFIG.SCAN_LINK}>
-                Original ADDRESS - {truncate(CONFIG.CONTRACT_ADDRESS, 50)} 
+             <StyledLink target={"_blank"} href={CONFIG.SCAN_LINK}>
+                - Original ADDRESS - {truncate(CONFIG.CONTRACT_ADDRESS, 50)} 
                 
               </StyledLink>
             </s.TextDescription>
