@@ -286,6 +286,7 @@ function App() {
                       }}
                     >
                       You need to use: {CONFIG.NETWORK.NAME} 
+                      Check that you have ETH for gas
                     </s.TextDescription>
                     <s.SpacerSmall />
                     <StyledButton
