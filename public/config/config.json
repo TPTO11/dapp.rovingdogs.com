@@ -9,7 +9,6 @@
   "NFT_NAME": "Roving Dogs",
   "SYMBOL": "RD",
   "MAX_SUPPLY": 7777,
- // "WEI_COST": 10000000000000000,
   "WEI_COST": 0,
   "DISPLAY_COST": 0.00,
   "GAS_LIMIT": 285000,
