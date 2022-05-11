@@ -8,7 +8,7 @@ import styled from "styled-components";
 const truncate = (input, len) =>
   input.length > len ? `${input.substring(0, len)}...` : input;
 
-  //TASTO CONNECT+BUY
+  //Button CONNECT+BUY
 export const StyledButton = styled.button`
   padding: 10px;
   border-radius: 50px;
@@ -28,7 +28,7 @@ export const StyledButton = styled.button`
     -moz-box-shadow: none;
   }
 `;
-//FRECCE +/- BUY
+// +/- BUY
 export const StyledRoundButton = styled.button`
   padding: 10px;
   border-radius: 0%;
@@ -69,7 +69,7 @@ export const ResponsiveWrapper = styled.div`
 export const StyledLogo = styled.img`
   width: 200px;
   @media (min-width: 767px) {
-    width: 300px;
+    width: 650px;
   }
   transition: width 0.5s;
   transition: height 0.5s;
