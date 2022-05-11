@@ -1,10 +1,10 @@
 {
-  "CONTRACT_ADDRESS": "0x8bB4e0b1ABdfAe20b77d82281dcc2F1FAa51aaF1",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x8bB4e0b1ABdfAe20b77d82281dcc2F1FAa51aaF1",
+  "CONTRACT_ADDRESS": "0x77c49ca9950Da6E8e3C32533530856bfF526aD6A",
+  "SCAN_LINK": "https://etherscan.io/address/0x77c49ca9950Da6E8e3C32533530856bfF526aD6A",
   "NETWORK": {
-    "NAME": "Rete di test Rinkeby",
+    "NAME": "Ethereum Mainnet",
     "SYMBOL": "ETH",
-    "ID": 4
+    "ID": 1
   },
   "NFT_NAME": "Roving Dogs",
   "SYMBOL": "RD",
@@ -13,6 +13,6 @@
   "DISPLAY_COST": 0.01,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opensea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/amen",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/amen",
   "SHOW_BACKGROUND": true
 }
