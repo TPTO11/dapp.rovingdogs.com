@@ -285,8 +285,7 @@ function App() {
                         color: "var(--accent-text)",
                       }}
                     >
-                      You need to use: {CONFIG.NETWORK.NAME} 
-                      Check that you have ETH for gas
+                      You need to use: {CONFIG.NETWORK.NAME}  and Check that you have ETH for gas
                     </s.TextDescription>
                     <s.SpacerSmall />
                     <StyledButton
